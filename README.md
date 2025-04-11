@@ -5,13 +5,9 @@ This project analyzes Nigeria’s 2025 Appropriation Bill to uncover how public 
 ---
 ## Methods
 Data Sourcing and Cleaning
-The dataset was sourced from Kaggle.
-Ridwan performed extensive data cleaning using Microsoft Excel, addressing inconsistencies, handling missing values, and preparing the dataset for analysis.
-SQL Analysis
-Moyin (Team Lead) and Mr. John collaborated to execute SQL queries, extracting meaningful insights.
-Moyin supervised the SQL process to align with /project objectives and ensure data integrity.
-Visualization
-Moyin designed a dynamic Power BI dashboard, translating data insights into an interactive and visually engaging format for easy interpretation.
+The dataset was sourced from Ministry of Budget and Economic Planning
+
+
 ## Tools & Technologies
 - **Microsoft Excel**: For data cleaning and Preprocessing
 - **Power BI**: For interactive visualizations and insights
