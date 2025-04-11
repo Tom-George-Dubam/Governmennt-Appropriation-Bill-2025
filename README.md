@@ -9,7 +9,7 @@ The dataset was sourced from Kaggle.
 Ridwan performed extensive data cleaning using Microsoft Excel, addressing inconsistencies, handling missing values, and preparing the dataset for analysis.
 SQL Analysis
 Moyin (Team Lead) and Mr. John collaborated to execute SQL queries, extracting meaningful insights.
-Moyin supervised the SQL process to align with project objectives and ensure data integrity.
+Moyin supervised the SQL process to align with /project objectives and ensure data integrity.
 Visualization
 Moyin designed a dynamic Power BI dashboard, translating data insights into an interactive and visually engaging format for easy interpretation.
 ## Tools & Technologies
