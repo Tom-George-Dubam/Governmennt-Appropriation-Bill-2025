@@ -2,10 +2,12 @@
 
 This project analyzes Nigeria’s 2025 Appropriation Bill to uncover how public funds are allocated across sectors, regions, and government agencies. It breaks down capital vs recurrent spending, highlights top-funded MDAs, and explores other insights. The goal is to promote transparency and demonstrate how data analysis can inform public finance decisions.
 
+![Screenshot (76)](https://github.com/user-attachments/assets/62d84112-a3f1-4900-b314-c62cc25e6e83)
 ---
 ## Methods
 Data Sourcing and Cleaning
 The dataset was sourced from Ministry of Budget and Economic Planning
+
 
 
 ## Tools & Technologies
